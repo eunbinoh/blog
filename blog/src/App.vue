@@ -15,10 +15,10 @@
             <a class="nav-link" href="/list">MyList</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Pricing</a>
+            <a class="nav-link" href="/detail/0">Detail</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
+            <a class="nav-link disabled">(Disabled)</a>
           </li>
         </ul>
       </div>
